@@ -1,0 +1,61 @@
+body {
+  display: grid;
+  padding: 0px;
+  margin: 0px;
+  font-family: "Source Sans Pro", sans-serif;
+  
+}
+img {
+  max-width: 100%;
+
+}
+header {
+  background-color: rgb(66, 66, 66);
+}
+header ul {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
+
+header ul li.item-menu {
+  padding-left: 20px;
+  padding-right: 20px;
+  list-style-type: none;
+  font-weight: normal;
+}
+
+header ul li.item-menu a{
+    line-height: 44px;
+}
+
+header .cabecalho {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
+}
+.icons1 {
+  justify-content: center;
+}
+
+.icons2 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.icons3 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.icons1, .icons2, .icons3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

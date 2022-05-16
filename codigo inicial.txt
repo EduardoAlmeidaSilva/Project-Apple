@@ -1,0 +1,91 @@
+.colunadahome {
+    width :1728px;
+  height: 40.26px;
+  background-color: rgb(66, 66, 66);
+  margin-top: -8px;
+  margin-left: -8px;
+  position: fixed;
+}
+
+.icons1 {
+    position: relative;
+    width: 20px;
+    height: 30px;
+    margin-left: 355px;
+      
+  }
+.icons2 {
+ background-color: white;
+}
+
+.icons3 {
+ background-color: white;
+}
+
+.store {
+    position: relative;
+    margin-left: 410px;
+    margin-top: -40px;
+}
+
+.mac {
+    position: relative;
+    margin-left: 510px;
+    margin-top: -18px;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Unicef</title>
+  <link rel="stylesheet" href="./css/baner-ipad-air.css" />
+  <link rel="stylesheet" href="./css/banner-iphone-13.css" />
+  <link rel="stylesheet" href="./css/banner-iphone-se.css" />
+  <link rel="stylesheet" href="./css/card-gradiente-degrade.css" />
+  <link rel="stylesheet" href="./css/cards-diferentes.css" />
+  <link rel="stylesheet" href="./css/cards-padroes.css" />
+  <link rel="stylesheet" href="./css/footer.css" />
+  <link rel="stylesheet" href="./css/header.css" />
+  <link rel="stylesheet" href="./css/tipografia.css" />
+  <link rel="stylesheet" href="./css/unicef.css" />
+</head>
+
+<body>
+  <header>
+    <div class="colunadahome"></div>
+
+    <div class="icons1">
+      <img src="./img/apple icon.png" alt="Apple Icon" />
+    </div>
+
+    <nav>
+      <ul>
+        <li class="store"><a href="https://Google.com" style="color: rgb(245, 245, 247);">Store</a></li>
+        <li class="mac"><a href="https://Google.com" style="color: rgb(245, 245, 247);">Mac</a></li>
+        <li class="ipad"><a href="https://Google.com" style="color: rgb(245, 245, 247);">Ipad</a></li>
+        <li class="iphone"><a href="https://Google.com" style="color: rgb(245, 245, 247);">Iphone</a></li>
+        <li class="watch"><a href="https://Google.com" style="color: rgb(245, 245, 247);">Watch</a></li>
+        <li class="airpods"><a href="https://Google.com" style="color: rgb(245, 245, 247);">airPods</a></li>
+        <li class="tv&home"><a href="https://Google.com" style="color: rgb(245, 245, 247);">Tv&Home</a></li>
+        <li class="tv&home"><a href="https://Google.com" style="color: rgb(245, 245, 247);">Tv&Home</a></li>
+        <li class="onlyonapple"><a href="https://Google.com" style="color: rgb(245, 245, 247);">Only on Apple</a></li>
+        <li class="acessories"><a href="https://Google.com" style="color: rgb(245, 245, 247);">Accessories</a></li>
+        <li class="support"></li><a href="https://Google.com" style="color: rgb(245, 245, 247);">Support</a></li>
+      </ul>
+    </nav>
+    <div class="icons2">
+      <img src="./img/search icon.png" alt="Search Icon" />
+    </div>
+
+    <div class="icons3">
+      <img src="./img/shop icon.png" alt="Shop Icon" />
+    </div>
+  </header>
+</body>
+
+</html>
+

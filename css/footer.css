@@ -1,0 +1,57 @@
+.container {
+    max-width: 1028px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.partefooter {
+  background-color: rgb(245, 245, 247);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 24px;
+  color: rgb(110, 110, 115);
+}
+
+.texto2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    color: rgb(42, 42, 45);
+    list-style-type: none;
+    font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 26px;
+
+}
+.p {
+padding-right:50px ;
+}
+.t {
+    font-style: normal;
+font-weight:bolder;
+font-size: 12px;
+line-height: 24px;
+color: rgb(66, 66, 69);
+}
+.f{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+.tf {  
+    display: flex;
+    align-items: center;
+    margin-left: 8px;
+}
+.tf1 {
+  margin-right: 18px;
+}
+.tf2 {
+  margin-left: 170px;
+}

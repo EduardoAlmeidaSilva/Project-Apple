@@ -1,0 +1,40 @@
+.partedoiphonese {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  word-wrap: break-word;
+  flex-direction: column;
+}
+
+.semibold1 {
+  font-style: normal;
+  font-weight: 590;
+  font-size: 21px;
+  line-height: 44px;
+  margin-top: 69px;
+  margin-bottom: 0px;
+}
+.semibold2 {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.regular2 {
+    margin-top: 0px;
+    margin-bottom: 4px;
+}
+.regularcomlink4,
+.regularcomlink5 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 44px;
+  color: rgb(0, 102, 204);
+  margin-top: 0px;
+  margin-bottom: 26px;
+  margin-right: 35px;
+  display: inline-block;
+}
+.imgiphonese {
+    margin-top: 0px;
+    margin-bottom: 103px;
+}
